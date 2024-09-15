@@ -1,0 +1,4 @@
+node_modules
+
+// we can add all the files which we dont want to add and push into the github
+.env
